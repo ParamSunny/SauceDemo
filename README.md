@@ -55,6 +55,9 @@ Solution: Used System.currentTimeMillis() at start & end of each test and calcul
 ✅ Overall Summary
 ✅ Compact & Single Slide Format (like HTML reports but in PPTX)
 
+![alt text](Test-ss.png)
+
+
 ## Clone the repository
 ```
 git clone https://github.com/ParamSunny/SauceDemo.git
